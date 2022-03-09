@@ -20,6 +20,9 @@ ij_wrap_on_typing = false
 [*.yml]
 indent_size = 2
 
+[*.sh]
+indent_size = 2
+
 [*.sass]
 indent_size = 2
 ij_continuation_indent_size = 2
