@@ -17,6 +17,9 @@ ij_smart_tabs = false
 ij_visual_guides = none
 ij_wrap_on_typing = false
 
+[*.yml]
+indent_size = 2
+
 [*.sass]
 indent_size = 2
 ij_continuation_indent_size = 2
